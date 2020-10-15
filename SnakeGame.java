@@ -1,3 +1,7 @@
+/**
+	 * Snake Game Main.
+	 */
+
 package com.abi;
 
 import java.applet.Applet;
